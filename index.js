@@ -9,14 +9,14 @@
 // 3. Print the array
 
 
- let names = [];
-names.push("matthew");
-names.push("april");
-names.push("marty");
-names.push("tony");
-for (let i = 0; i < names.length; i++){
-    console.log(names[i]);
-}
+//  let names = [];
+// names.push("matthew");
+// names.push("april");
+// names.push("marty");
+// names.push("tony");
+// for (let i = 0; i < names.length; i++){
+//     console.log(names[i]);
+// }
 
 
 //
@@ -37,11 +37,11 @@ for (let i = 0; i < names.length; i++){
 // 3. Delete the second item.
 // 4. Print the third item in the array again.
 
-// let names = [ "Marcus","Paul", "John", "Mellow"];
-// console.log(names[2]);
-// names.splice(1,1);
-// console.log(names);
-//
+let names = [ "Marcus","Paul", "John", "Mellow"];
+console.log(names[2]);
+names.splice(1,1);
+console.log(names[2]);
+
 
 
 
